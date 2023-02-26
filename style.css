@@ -1,0 +1,25 @@
+.css-12ttj6m.epcbefy1 { /* Form div */
+    max-width: 35rem;
+}
+
+.css-1offfwp a { /* Reload Button */
+    display: inline-block;
+    padding: 0.63rem 1.9rem;
+    cursor: pointer;
+    background: #047aed;
+    color: #fff;
+    border: none;
+    border-radius: 0.8rem;
+    margin-top: -0.63rem;
+    text-align: center;
+    /* for specifying the a tag */
+    text-decoration: none;
+}
+
+.css-1offfwp a:hover {
+    transform: scale(0.98);
+}
+
+.css-1djdyxw p { /* Checkbox Widen Table */
+    color: #6c757d;
+}
